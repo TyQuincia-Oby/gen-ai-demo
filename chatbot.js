@@ -10,8 +10,9 @@ onEvent("sendBtn", "click", function() {
         if (userQuestion === "") {
         setText("output-text", "Please enter a message");
     }
-    
-    //setText to display "Test Message" in output-text
-    setText("output-text", "");
-
+    else {
+        //setText to output-text to display userQuestion
+        setText("output-text", "You asked: " + userQuestion + ". Here's something good: ChatBot is learning and getting smarter every day!");
+        // confirmed output-text displays correctly in browser
+    }
 });
