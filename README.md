@@ -10,3 +10,6 @@
 ###[x]Output area converted to Bootstrap card structure
 ###[x]Button click event wired and input value captured
 ###[x]Button click event logs “clicked” to console
+[x]sendToModel() function created with Hugging Face fetch snippet
+[x]API token replaced and test prompt added
+[x]botReply variable set and function called from button handler
