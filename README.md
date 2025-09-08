@@ -5,3 +5,8 @@
 ###[]Git repository initialized with first commit and pushed to GitHub
 ###[x]Live server runs and page loads without errors
 ###[]secret-variables.js is NOT visible on GitHub(security check passed)
+###[x]Input field, send button, and output area added to HTML
+###[x]Bootstrap styling applied to input and button
+###[x]Output area converted to Bootstrap card structure
+###[x]Button click event wired and input value captured
+###[x]Button click event logs “clicked” to console
