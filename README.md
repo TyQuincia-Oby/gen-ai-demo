@@ -10,6 +10,10 @@
 ###[x]Output area converted to Bootstrap card structure
 ###[x]Button click event wired and input value captured
 ###[x]Button click event logs “clicked” to console
-[x]sendToModel() function created with Hugging Face fetch snippet
-[x]API token replaced and test prompt added
-[x]botReply variable set and function called from button handler
+###[x]sendToModel() function created with Hugging Face fetch snippet
+###[x]API token replaced and test prompt added
+###[x]botReply variable set and function called from button handler
+###[x]User input captured and stored in userPrompt variable
+###[x]sendToModel() updated to use dynamic user input
+###[x]Reply rendered in output area when fetch resolves
+###[x]Different prompts produce sensible replies
